@@ -4,3 +4,5 @@ beautifulsoup4==4.12.2
 aiosqlite==0.18.0
 groq==0.32.0
 flask-cors==4.0.0
+gunicorn==21.2.0
+python-dotenv==1.0.1
